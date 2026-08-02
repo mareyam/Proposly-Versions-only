@@ -1,4 +1,5 @@
 # Proposly-Releases — Project Summary
+# https://proposly-by-zamoog.vercel.app/
 
 ## What it is
 SaaS AI tool that generates tailored Upwork proposals. Users upload their own past winning proposals as style templates, and the AI generates new proposals matching their voice for each job post.
